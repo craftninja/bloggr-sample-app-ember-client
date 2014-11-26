@@ -1,5 +1,15 @@
 # Bloggr-sample-app
 
+* ember g
+* ember serve --proxy http://localhost:3000
+
+TODO
+
+* install showdown
+* search for crud tutorial ember
+* read https://leanpub.com/emberjs-testingonrails
+
+
 This README outlines the details of collaborating on this Ember application.
 
 A short introduction of this app could easily go here.
